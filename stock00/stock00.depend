@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471335310 source:f:\cpp\stock00\usestock00.cpp
+	<iostream>
+	"stock00.h"
+
+1471335199 f:\cpp\stock00\stock00.h
+	<string>
+

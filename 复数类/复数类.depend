@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471535261 source:f:\cpp\复数类\usecomplex.cpp
+	<iostream>
+	"complex.h"
+
+1471535956 f:\cpp\复数类\complex.h
+	<iostream>
+

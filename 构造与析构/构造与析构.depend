@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471338267 source:f:\cpp\构造与析构\stock10.cpp
+	<iostream>
+	"stock10.h"
+
+1471337915 f:\cpp\构造与析构\stock10.h
+	<string>
+

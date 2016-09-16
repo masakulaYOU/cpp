@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471488839 source:f:\cpp\сят╙\mytime3.cpp
+	"mytime3.h"
+
+1471488692 f:\cpp\сят╙\mytime3.h
+	<iostream>
+
